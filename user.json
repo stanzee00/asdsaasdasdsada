@@ -7,8 +7,8 @@
     "password": "admin123",
     "hwid": "H8G7F6E5D4C3B2A1"
   },
-  "testuser": {
-    "password": "testpass",
+  "test": {
+    "password": "test123",
     "hwid": "1234567890ABCDEF"
   },
   "demo": {
