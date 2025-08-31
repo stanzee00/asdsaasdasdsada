@@ -1,0 +1,18 @@
+{
+  "123": {
+    "password": "e152af4ef6a474c332e900e9e8faa532ee07c43f2ca901b89d09fd8c135c4d39",
+    "hwid": "74564f8036799bde93b8fcf47fa375e582de4fb49e7f0f5529eb01b939d5824e"
+  },
+  "admin": {
+    "password": "99e2e6a10aaea366b76949fc01c858a809f9308eb3515a55266ecaff9da3b593",
+    "hwid": "74564f8036799bde93b8fcf47fa375e582de4fb49e7f0f5529eb01b939d5824e"
+  },
+  "test": {
+    "password": "141d546e67ea2d610c0fe60710a571c8f60708fc11fb350b5c1b2a9e5ec4e059",
+    "hwid": "74564f8036799bde93b8fcf47fa375e582de4fb49e7f0f5529eb01b939d5824e"
+  },
+  "asd": {
+    "password": "b62e65b9766877888d0f9499a006382aca3d12082974e728df96fde84c630360",
+    "hwid": "fa598d9b4ae846dfccebb3f8a50931884096542515b1fb90e2e5e5f8073a341d"
+  }
+}
