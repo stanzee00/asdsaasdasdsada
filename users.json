@@ -1,0 +1,18 @@
+{
+  "123": {
+    "password": "123",
+    "hwid": "66FA533195B8E98F"
+  },
+  "admin": {
+    "password": "admin123",
+    "hwid": "66FA533195B8E98F"
+  },
+  "test": {
+    "password": "test123",
+    "hwid": "66FA533195B8E98F"
+  },
+  "asd": {
+    "password": "asd",
+    "hwid": "FEDCBA0987654321"
+  }
+}
